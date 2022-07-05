@@ -1,0 +1,144 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Patricio Gustavo",
+      "surnames": "Mariano",
+      "title": "FullStack Designer | FrontEnd Developer | UX/UI Designer",
+      "description": "Me interesan las experiencias lúdicas combinadas con las creativas, los desafíos y la adrenalina, amo viajar y conocer nuevas culturas, mi enfoque está puesto en el crecimiento profesional y personal.\nSuelo combinar pensamiento lógico para optimizar el flujo de trabajo en el campo del diseño, orientando a componentes o sistemas de diseño escalables.\nSoy un excelente nexo entre el equipo de diseño y el de desarrollo. Me gusta participar de ambos, ayudar a mejorar las herramientas, los procesos y la productividad en el trabajo. Me gusta hacer pair programming y aprender de mis compañeros de trabajo y mentores.",
+      "avatar": {
+        "alt": "pm-small.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/05/635df9ad-83a2-4ad3-8951-ac2d1c6031ab_pm-small.png"
+      },
+      "location": {
+        "notes": "Málaga, España"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/patomdp"
+      },
+      {
+        "type": "other",
+        "URL": "https://patriciomariano.com/"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/patriciomariano/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "🌎 Ciudadano del mundo",
+        "fact": "Nací en Argentina, hice 6 años de Work and Travel en Vail, Colorado, EEUU. \nEn esta experiencia conocí maravillosas personas y culturas de países como\n-EEUU, México, Costa Rica, Honduras, Bahamas, España, Francia, Países Bajos, Bélgica."
+      },
+      {
+        "topic": "💎 Objeto brillante",
+        "fact": "Soy curioso y persistente, he emprendido en diferentes áreas y cuento con un portafolios de más de 50 proyectos personales y profesionales. Siempre buscando aprender de nuevas experiencias y la satisfacción de autosuperación.\nDesde sitios web, productos industriales, conceptos, casos de estudio, proyectos de cursos, juegos, videojuegos y un largo etc. que te invito a verlo en mi sitio web personal: patriciomariano.com\nPara esto he realizado varios cursos y formaciones formales y no formales. Inteligencia Artificial, FullStack Web Development, UXUI, Branding, etc."
+      },
+      {
+        "topic": "🎲 Personalidad Lúdica",
+        "fact": "Tengo una humilde biblioteca de 40+ juegos de mesa.\nAdemás, desde el 2019 participo en eventos globales tipo Jams para crear juegos en 24-48hs con gente de todo el mundo.\nParticipe en la Global Game Jam 2019, 2020, 2022\n"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Figma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Firebase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Blender",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Axure",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/patriciomariano/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
+          "name": "Axure",
+          "type": "technology"
+        },
+        {
+          "name": "Firebase",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        },
+        {
+          "name": "Unity3D",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
